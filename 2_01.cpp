@@ -4,7 +4,7 @@ using namespace std;
 int main()
  {
   int n;
-
+//  djflkasjdflkjsakldfj
   cin>>n;
   int arr[n][n];
   cout<<"\nelements:\n";
